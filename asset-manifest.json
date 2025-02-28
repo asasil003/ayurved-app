@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ayurved-app/static/css/main.31d6cfe0.css",
-    "main.js": "/ayurved-app/static/js/main.d4d3c0a2.js",
+    "main.js": "/ayurved-app/static/js/main.0dad2f7c.js",
     "static/media/eight.jpg": "/ayurved-app/static/media/eight.aa277acf8c48cc650c15.jpg",
     "static/media/three.jpg": "/ayurved-app/static/media/three.38870bbf3c8506db2ee1.jpg",
     "static/media/eleven.webp": "/ayurved-app/static/media/eleven.64a4601841e43a5c6f3e.webp",
@@ -9,10 +9,10 @@
     "static/media/seven.jpeg": "/ayurved-app/static/media/seven.06d9cf570bafb47ed684.jpeg",
     "static/media/six.jpeg": "/ayurved-app/static/media/six.a7f4d509d59eee482964.jpeg",
     "index.html": "/ayurved-app/index.html",
-    "main.d4d3c0a2.js.map": "/ayurved-app/static/js/main.d4d3c0a2.js.map"
+    "main.0dad2f7c.js.map": "/ayurved-app/static/js/main.0dad2f7c.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.d4d3c0a2.js"
+    "static/js/main.0dad2f7c.js"
   ]
 }
